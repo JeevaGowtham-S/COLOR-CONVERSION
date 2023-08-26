@@ -1,4 +1,4 @@
-![Screenshot 2023-08-26 093913](https://github.com/JeevaGowtham-S/COLOR-CONVERSION/assets/118042624/958b8d5a-72ff-43b8-bfb0-3c24ff2f431d)# COLOR-CONVERSION
+# COLOR-CONVERSION
 ## AIM
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 
