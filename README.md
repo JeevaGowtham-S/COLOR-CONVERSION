@@ -26,11 +26,12 @@ Destroy all the windows and end the program.
 <br>
 
 ## Program:
-```python
-# Developed By:
-# Register Number:
-# i) Convert BGR and RGB to HSV and GRAY
-```import cv2
+python
+# Developed By: JEEVA GOWTHAMS 
+# Register Number: 212222230053
+i) Convert BGR and RGB to HSV and GRAY
+```
+import cv2
 
 flower_image = cv2.imread('flower.jpg')
 cv2.imshow('Original Image', flower_image)
