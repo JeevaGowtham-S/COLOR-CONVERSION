@@ -27,7 +27,7 @@ Destroy all the windows and end the program.
 
 ## Program:
 python
-# Developed By: JEEVA GOWTHAMS 
+# Developed By: JEEVAGOWTHAM S 
 # Register Number: 212222230053
 i) Convert BGR and RGB to HSV and GRAY
 ```
